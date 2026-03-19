@@ -18,7 +18,7 @@ class USA():
         print("English is lang. of USA")
     
     def type(self):
-        print("USA is a developed country")\
+        print("USA is a developed country")
 
 #Common interface
 obj_ind=India()
